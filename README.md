@@ -1,2 +1,2 @@
 # Task
-https://alpha-santhosh.github.io/Task/
+https://alpha-santhosh.github.io/HTML-Task/
